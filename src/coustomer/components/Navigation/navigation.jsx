@@ -291,7 +291,7 @@ export default function Navigation() {
                   <span className="sr-only">Your Company</span>
                   <img
                     alt=""
-                    src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
+                    src="./img/logoBg.png"
                     className="h-8 w-auto"
                   />
                 </a>
@@ -392,10 +392,10 @@ export default function Navigation() {
                   <a href="#" className="flex items-center text-gray-700 hover:text-gray-800">
                     <img
                       alt=""
-                      src="https://tailwindui.com/plus/img/flags/flag-canada.svg"
+                      src="./img/image.png"
                       className="block h-auto w-5 shrink-0"
                     />
-                    <span className="ml-3 block text-sm font-medium">CAD</span>
+                    <span className="ml-3 block text-sm font-medium">IND</span>
                     <span className="sr-only">, change currency</span>
                   </a>
                 </div>
