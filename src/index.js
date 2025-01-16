@@ -3,12 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 
 import reportWebVitals from './reportWebVitals';
-import Navigation from './coustomer/components/Navigation/navigation';
+import Navigation from './coustomer/components/Navigation/Navigation';
+import HomePage from './coustomer/components/Pages/HomePage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
    <Navigation/>
+   <HomePage/>
   </React.StrictMode>
 );
 
