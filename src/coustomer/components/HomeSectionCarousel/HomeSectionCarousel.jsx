@@ -16,7 +16,7 @@ const HomeSectionCarousel = () => {
         },
     };
 
-    const items = [1,1,1,1,1,1,1].map((item) => (<HomeSectionCard/>));
+    const items = [1,1,1,1,1].map((item) => (<HomeSectionCard/>));
     return ( 
         <div >
            <AliceCarousel
