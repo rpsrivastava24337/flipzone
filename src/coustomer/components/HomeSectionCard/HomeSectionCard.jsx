@@ -5,7 +5,7 @@ const HomeSectionCard = () => {
     return (
         <div className='bg-dark border border-5 shadow-lg rounded-lg w-[15rem] cursor-pointer flex flex-col justify-center items-center overflow-hidden m-3'> 
             <div className='w-[13] h-[10rem]'>
-            <img src='https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/m/j/d/l-db1041-3bros-original-imagybqgmzxuctxh.jpeg?q=70&crop=false' alt='img' className='w-full h-full object-cover object-top' />
+            <img src='https://rukminim2.flixcart.com/image/832/832/xif0q/ethnic-set/l/d/y/l-fpl23-whitekurtaset-l-ladyflock-original-imah8g7gccfekxwz.jpeg?q=70&crop=false' />
 
             </div>
             <div className='p-4'>
